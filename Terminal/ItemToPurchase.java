@@ -1,5 +1,3 @@
-package ShoppingCart.Terminal;
-
 public class ItemToPurchase {
     private String itemName;
     private double itemPrice;

@@ -1,4 +1,3 @@
-package ShoppingCart.Terminal;
 
 import java.util.Scanner;
 
